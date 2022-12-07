@@ -7,7 +7,7 @@
 ```javascript
 const me = {
   code: [Javascript, C++, Python, Java],
-  ingredients: [Sugar, Strawberry Jam, Vanilla Bean, Egg],
+  yummy: [Icecream, Chicken Alfredo, Cookies, Cockroaches],
   interests: ["Product Management", "Software Engineering", "NLP", "Baking!!"],
 
  fact: "i am a woman in stem"
