@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 ### Top Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebaolin&layout=compact)
+#### Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=thebaolin&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
