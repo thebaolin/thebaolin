@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 #### stats are probably inaccurate
-<img src="https://github-readme-stats.vercel.app/api?username=thebaolin&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=thebaolin&show_icons=true&theme=gotham" alt="github stats" width="45%" align="left"/>
