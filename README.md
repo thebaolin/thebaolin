@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### stats are probably inaccurate
-<img src="https://github-readme-stats.vercel.app/api?username=thebaolin&show_icons=true&theme=gotham" alt="github stats" width="45%" align="left"/>
+![Snake animation](https://github.com/thebaolin/github-readme/blob/output/github-contribution-snake.svg)
