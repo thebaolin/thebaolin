@@ -1,18 +1,24 @@
 ### hey there, i'm paulina
+<h2> hi, i'm paulina! <img src="https://media.giphy.com/media/92YG8KKSjYhMc/giphy.gif" width="50"></h2>
+</br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const me = {
+  code: [Javascript, C++, Python, Java],
+  ingredients: [Sugar, Strawberry Jam, Vanilla Bean, Egg],
+  interests: ["Product Management", "Software Engineering", "NLP", "Baking!!"],
+
+ fact: "i am a woman in stem"
+}
+```
+---
 
 <!--
 **thebaolin/thebaolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
