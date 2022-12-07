@@ -1,3 +1,9 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=hi,+im+paulina&center=true&size=30">
+  </a>
+</h1>
+
 <h2> i'm paulina <img src="[https://media.giphy.com/media/92YG8KKSjYhMc/giphy.gif](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)" width="50"></h2>
 </em></p>
 
