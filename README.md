@@ -1,5 +1,4 @@
-<h2> hi, i'm paulina! <img src="https://media.giphy.com/media/92YG8KKSjYhMc/giphy.gif" width="50"></h2>
-</br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<h2> hi, i'm paulina! <img src="[https://media.giphy.com/media/92YG8KKSjYhMc/giphy.gif](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)" width="50"></h2>
 </em></p>
 
 ```javascript
