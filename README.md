@@ -7,7 +7,7 @@
 ```javascript
 const me = {
   code: [Javascript, C++, Python, Java],
-  yummy: [Icecream, Chicken Alfredo, Cookies, Cockroaches],
+  yummy: [Icecream, Cookies, Cockroaches],
   interests: ["Product Management", "Software Engineering", "NLP", "Baking!!"],
 
  fact: "i am a woman in stem"
